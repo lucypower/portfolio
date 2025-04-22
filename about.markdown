@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About the Theme
+title: About Me!
 tags: [about, Jekyll, theme, moon]
-date: 2024-02-11
+date: 2025-04-22
 comments: false
 ---
 
-<center><a href="http://TolgaTatli.github.io/Moonrise"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center>My name is Lucy Power and I am an aspiring game developer. I am currently studying for my Masters' Degree in Computer Games Development at Manchester Metropolitan University. I graduated from Staffordshire University last year, achieving a First Class with Honours Degree in Computer Games Development. </center>
 
 ## Features
 
