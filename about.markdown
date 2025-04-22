@@ -8,18 +8,15 @@ comments: false
 
 <center>My name is Lucy Power and I am an aspiring game developer. I am currently studying for my Masters' Degree in Computer Games Development at Manchester Metropolitan University. I graduated from Staffordshire University last year, achieving a First Class with Honours Degree in Computer Games Development. </center>
 
-## Features
+## My Skills
 
--   Minimal, you can focus on your content
--   Responsive
--   Disqus integration
--   Syntax highlighting
--   Optional post image
--   Social icons
--   Page for sharing projects
--   Optional background image
--   Simple navigation menu
--   MathJax support
+-   C++
+-   Unreal Engine 5
+-   C#
+-   Unity
+-   GitHub
+-   DevOps
+-   Quality Assurance
 
 ## Preview
 
