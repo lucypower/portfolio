@@ -23,7 +23,7 @@ comments: false
 {% capture images %}
 
 ![graduationPic2](https://github.com/user-attachments/assets/5aa83d12-353c-4012-ab46-629a1f29693d)
-
+![graduationPic2](https://github.com/user-attachments/assets/5aa83d12-353c-4012-ab46-629a1f29693d)
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
