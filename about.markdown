@@ -29,8 +29,8 @@ https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-87
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
-![](/assets/img/graduationPic1.jpg){: width="250px"}
-![](/assets/img/graduationPic2.jpg){: width="250px"}
+![](/assets/img/graduationPic1.jpg){:width="250"}
+![](/assets/img/graduationPic2.jpg){:width="250"}
 
 
 See a [live version of Moon](http://TolgaTatli.github.io/Moonrise) hosted on GitHub.
