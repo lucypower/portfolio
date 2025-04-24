@@ -6,7 +6,7 @@ date: 2025-04-22
 comments: false
 ---
 
-<center>My name is Lucy Power and I am an aspiring game developer. I am currently studying for my Masters' Degree in Computer Games Development at Manchester Metropolitan University. I graduated from Staffordshire University last year, achieving a First Class with Honours Degree in Computer Games Development. </center>
+<center>My name is Lucy Power and I am an aspiring game developer. I am currently studying for my Masters' Degree in Computer Games Development at Manchester Metropolitan University. I graduated from Staffordshire University last year, achieving a First Class with Honours Degree in Computer Games Development.</center>
 
 ## My Skills
 
@@ -22,7 +22,7 @@ comments: false
 
 {% capture images %}
 https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
+![Graduation Pic](/assets/img/graduationPic2.jpg)
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
