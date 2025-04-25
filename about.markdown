@@ -23,13 +23,12 @@ comments: false
 {% capture images %}
 https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
 https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-<img src="https://github.com/lucypower/portfolio/blob/6da70a426d7f562b5ea0623df9c3090bb8507b2d/assets/img/graduationPic2.jpg" style=width="250"/>
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
 
 <img src="https://github.com/lucypower/portfolio/blob/6da70a426d7f562b5ea0623df9c3090bb8507b2d/assets/img/graduationPic2.jpg?raw=true" height="250"/>
-
+![](/assets/img/graduationPic2.jpg){: width="250"}
 
 
 See a [live version of Moon](http://TolgaTatli.github.io/Moonrise) hosted on GitHub.
