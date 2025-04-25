@@ -26,9 +26,9 @@ https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-87
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
-## a
+## aa
 
-![][Graduation]
+![](Graduation)
 Graduation: assets/img/graduationPic2.jpg style="width:10%"
 
 
