@@ -27,13 +27,7 @@ https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-87
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
 
-<div> ![](1) </div>
-
-[1]: /assets/img/graduationPic2.jpg
-
-## a
-
- <img align="right" width="100" height="100" src="https://raw.githubusercontent.com/lucypower/portfolio/6da70a426d7f562b5ea0623df9c3090bb8507b2d/assets/img/graduationPic2.jpg">
+ <img src="https://raw.githubusercontent.com/lucypower/portfolio/6da70a426d7f562b5ea0623df9c3090bb8507b2d/assets/img/graduationPic2.jpg" width="200" height="200">
 
 
 See a [live version of Moon](http://TolgaTatli.github.io/Moonrise) hosted on GitHub.
