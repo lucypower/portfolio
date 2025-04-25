@@ -26,3 +26,6 @@ sitemap: false
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+img {
+    height: min-content;
+}
