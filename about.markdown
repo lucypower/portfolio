@@ -28,8 +28,9 @@ https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-87
 
 ## aa
 
-![](Graduation)
-Graduation: assets/img/graduationPic2.jpg style="width:10%"
+
+![](x-devonthink-item://78920E50-9988-4A68-9437-D5CBD15CD259 width=600)
+
 
 
 See a [live version of Moon](http://TolgaTatli.github.io/Moonrise) hosted on GitHub.
